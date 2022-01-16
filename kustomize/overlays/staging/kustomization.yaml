@@ -4,6 +4,5 @@ resources:
 - ../../base
 - deployment.yaml
 - ingress.yaml
-- regcred.yaml
 namespace: staging
 

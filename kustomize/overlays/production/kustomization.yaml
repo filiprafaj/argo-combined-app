@@ -5,6 +5,5 @@ resources:
 # - hpa.yaml
 - ingress.yaml
 - rollout.yaml
-- regcred.yaml
 namespace: production
 
