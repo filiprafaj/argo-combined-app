@@ -1,7 +1,7 @@
 # Site settings
 baseURL = "/"
 languageCode = "en-us"
-title = "The DevOps Toolkit Series"
+title = "Something very interesting"
 theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
@@ -13,7 +13,7 @@ disqusShortname = ""
 [params]
 
   # Provide your metadata here.
-  name = "Viktor Farcic"
+  name = "Filip Rafaj"
   description = "Books and courses dedicated to DevOps practices and tools"
 
   # Link custom assets relative to /static
@@ -33,7 +33,7 @@ disqusShortname = ""
   # TODO: Remove params
   [params.navigation]
     title = "The DevOps Toolkit Series"
-    subtitle = "By Viktor Farcic"
+    subtitle = "By Filip Rafaj"
     menu = "Menu"
     # Optional logo as brand stored in img/
     # logo = "logo.png"
