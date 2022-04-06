@@ -9,7 +9,7 @@ metadata:
     ingress.kubernetes.io/custom-request-headers: l5d-dst-override:argo-combined-app.production.svc.cluster.local:80
 spec:
   rules:
-  - host: argo-combined-app.test
+  - host: argo-combined-app.pilifo.com
     http:
       paths:
       - path: /
