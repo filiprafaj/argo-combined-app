@@ -14,6 +14,6 @@ spec:
     - kind: Rule
       match: Host(`argo-combined-app.pilifo.com`)  && PathPrefix(`/`)
       services: # Service to redirect requests to
-        - name: camunda-engine-service
+        - name: argo-combined-app
           port: 8080
           scheme: http
