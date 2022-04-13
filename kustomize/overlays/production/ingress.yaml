@@ -18,4 +18,4 @@ spec:
           port: 80
           scheme: http
   tls:
-    secretName: grafana-cert
+    secretName: argo-combined-app-cert
