@@ -17,3 +17,5 @@ spec:
         - name: argo-combined-app
           port: 80
           scheme: http
+  tls:
+    secretName: grafana-cert
