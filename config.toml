@@ -126,7 +126,7 @@ disqusShortname = ""
   # Footer section
   [params.footer]
     enable = true
-    copyright = "Viktor Farcic"
+    copyright = "Someone Awesome"
 
     # Uses font awesome icons
     [[params.footer.social]]
